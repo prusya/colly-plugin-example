@@ -106,3 +106,5 @@ func crawl(query string, id string) Results {
 
 	return results
 }
+
+func main() {}
